@@ -1,5 +1,5 @@
-sex
-golang web scraping
-python tutorials
-open source projects
+Adult:sex
+Programming:golang web scraping
+Programming:python tutorials
+Development:open source projects
 

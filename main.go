@@ -7,6 +7,7 @@ import (
 	"net/http"
 	"net/url"
 	"os"
+	"sort"
 	"strings"
 	"sync"
 	"time"
@@ -19,6 +20,11 @@ const (
 	MaxWorkers = 2
 )
 
+type KeywordItem struct {
+	Category string
+	Keyword  string
+}
+
 func main() {
 	// Load keywords from file
 	data, err := os.ReadFile("keywords.txt")
@@ -27,11 +33,16 @@ func main() {
 	}
 
 	// Parse lines, skip empty lines
-	var keywords []string
+	var keywords []KeywordItem
 	for _, line := range strings.Split(string(data), "\n") {
 		line = strings.TrimSpace(line)
 		if line != "" {
-			keywords = append(keywords, line)
+			parts := strings.Split(line, ":")
+			if len(parts) == 2 {
+				category := strings.TrimSpace(parts[0])
+				keyword := strings.TrimSpace(parts[1])
+				keywords = append(keywords, KeywordItem{Category: category, Keyword: keyword})
+			}
 		}
 	}
 
@@ -39,17 +50,21 @@ func main() {
 		log.Fatal("No keywords found in keywords.txt")
 	}
 
-	fmt.Printf("Loaded %d keywords: %v\n", len(keywords), keywords)
+	fmt.Printf("Loaded %d keywords:\n", len(keywords))
+	for _, kw := range keywords {
+		fmt.Printf("  [%s] %s\n", kw.Category, kw.Keyword)
+	}
 
-	jobs := make(chan string, len(keywords))
+	jobs := make(chan KeywordItem, len(keywords))
 	var wg sync.WaitGroup
 
-	file, _ := os.OpenFile("reachable_sites.txt", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
-	defer file.Close()
+	// Use a map to store results organized by category
+	results := make(map[string][]string)
+	var mu sync.Mutex
 
 	for w := 1; w <= MaxWorkers; w++ {
 		wg.Add(1)
-		go worker(jobs, &wg, file)
+		go worker(jobs, &wg, &results, &mu)
 	}
 	for _, kw := range keywords {
 		jobs <- kw
@@ -57,18 +72,40 @@ func main() {
 	close(jobs)
 	wg.Wait()
 
+	// Write results organized by category
+	file, _ := os.OpenFile("reachable_sites.txt", os.O_CREATE|os.O_WRONLY|os.O_TRUNC, 0644)
+	defer file.Close()
+
+	// Sort categories alphabetically
+	var categories []string
+	for cat := range results {
+		categories = append(categories, cat)
+	}
+	sort.Strings(categories)
+
+	// Write organized output
+	for i, category := range categories {
+		if i > 0 {
+			file.WriteString("\n")
+		}
+		file.WriteString(fmt.Sprintf("=== %s ===\n", category))
+		for _, result := range results[category] {
+			file.WriteString(result + "\n")
+		}
+	}
+
 	fmt.Println("\n✓ Done! Results saved to reachable_sites.txt")
 }
 
-func worker(jobs <-chan string, wg *sync.WaitGroup, logFile *os.File) {
+func worker(jobs <-chan KeywordItem, wg *sync.WaitGroup, results *map[string][]string, mu *sync.Mutex) {
 	defer wg.Done()
 	client := &http.Client{Timeout: 10 * time.Second}
 
-	for kw := range jobs {
-		searchURL := fmt.Sprintf("https://html.duckduckgo.com/html/?q=%s", url.QueryEscape(kw))
+	for kwItem := range jobs {
+		searchURL := fmt.Sprintf("https://html.duckduckgo.com/html/?q=%s", url.QueryEscape(kwItem.Keyword))
 
 		for page := 1; page <= MaxPages; page++ {
-			fmt.Printf("\n[Worker] Processing '%s' - Page %d\n", kw, page)
+			fmt.Printf("\n[Worker] Processing [%s] '%s' - Page %d\n", kwItem.Category, kwItem.Keyword, page)
 
 			req, err := http.NewRequest("GET", searchURL, nil)
 			if err != nil {
@@ -81,7 +118,7 @@ func worker(jobs <-chan string, wg *sync.WaitGroup, logFile *os.File) {
 
 			resp, err := client.Do(req)
 			if err != nil {
-				log.Printf("Failed to fetch '%s': %v", kw, err)
+				log.Printf("Failed to fetch '[%s] %s': %v", kwItem.Category, kwItem.Keyword, err)
 				break
 			}
 
@@ -112,7 +149,7 @@ func worker(jobs <-chan string, wg *sync.WaitGroup, logFile *os.File) {
 					return
 				}
 				found++
-				verifyAndLog(realURL, kw, client, logFile)
+				verifyAndLog(realURL, kwItem, client, results, mu)
 			})
 
 			fmt.Printf("  [DEBUG] Found %d links on page %d\n", found, page)
@@ -123,12 +160,12 @@ func worker(jobs <-chan string, wg *sync.WaitGroup, logFile *os.File) {
 				val, _ := s.Attr("value")
 				nextURL = fmt.Sprintf(
 					"https://html.duckduckgo.com/html/?q=%s&s=%s&dc=1&v=1&o=json&api=/d.js",
-					url.QueryEscape(kw), val,
+					url.QueryEscape(kwItem.Keyword), val,
 				)
 			})
 
 			if nextURL == "" {
-				fmt.Printf("  No more pages for '%s'\n", kw)
+				fmt.Printf("  No more pages for '[%s] %s'\n", kwItem.Category, kwItem.Keyword)
 				break
 			}
 			searchURL = nextURL
@@ -137,7 +174,7 @@ func worker(jobs <-chan string, wg *sync.WaitGroup, logFile *os.File) {
 	}
 }
 
-func verifyAndLog(link string, kw string, client *http.Client, file *os.File) {
+func verifyAndLog(link string, kwItem KeywordItem, client *http.Client, results *map[string][]string, mu *sync.Mutex) {
 	resp, err := client.Head(link)
 	if err != nil {
 		errStr := err.Error()
@@ -160,7 +197,11 @@ func verifyAndLog(link string, kw string, client *http.Client, file *os.File) {
 		}
 
 		fmt.Printf("  [%-28s] %s\n  └─ reason: %s\n", reason, link, short)
-		file.WriteString(fmt.Sprintf("[%s] [%s] %s\n", kw, reason, link))
+		resultStr := fmt.Sprintf("Category: %s | Keyword: %s | Status: %s | %s", kwItem.Category, kwItem.Keyword, reason, link)
+		
+		mu.Lock()
+		(*results)[kwItem.Category] = append((*results)[kwItem.Category], resultStr)
+		mu.Unlock()
 		return
 	}
 	defer resp.Body.Close()
@@ -189,7 +230,11 @@ func verifyAndLog(link string, kw string, client *http.Client, file *os.File) {
 	}
 
 	fmt.Printf("  [%-12s | %d] %s\n", label, status, link)
-	file.WriteString(fmt.Sprintf("[%s] [%s | %d] %s\n", kw, label, status, link))
+	resultStr := fmt.Sprintf("Category: %s | Keyword: %s | Status: %s (%d) | %s", kwItem.Category, kwItem.Keyword, label, status, link)
+	
+	mu.Lock()
+	(*results)[kwItem.Category] = append((*results)[kwItem.Category], resultStr)
+	mu.Unlock()
 }
 
 func min(a, b int) int {
