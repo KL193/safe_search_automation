@@ -103,11 +103,17 @@ func worker(jobs <-chan KeywordItem, wg *sync.WaitGroup, results *map[string][]s
 
 	for kwItem := range jobs {
 		searchURL := fmt.Sprintf("https://html.duckduckgo.com/html/?q=%s", url.QueryEscape(kwItem.Keyword))
+		nextPageToken := ""
 
 		for page := 1; page <= MaxPages; page++ {
 			fmt.Printf("\n[Worker] Processing [%s] '%s' - Page %d\n", kwItem.Category, kwItem.Keyword, page)
 
-			req, err := http.NewRequest("GET", searchURL, nil)
+			currentURL := searchURL
+			if nextPageToken != "" {
+				currentURL = fmt.Sprintf("%s&s=%s", searchURL, nextPageToken)
+			}
+
+			req, err := http.NewRequest("GET", currentURL, nil)
 			if err != nil {
 				log.Printf("Failed to create request: %v", err)
 				break
@@ -115,6 +121,7 @@ func worker(jobs <-chan KeywordItem, wg *sync.WaitGroup, results *map[string][]s
 			req.Header.Set("User-Agent", "Mozilla/5.0 (Windows NT 10.0; rv:109.0) Gecko/20100101 Firefox/115.0")
 			req.Header.Set("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
 			req.Header.Set("Accept-Language", "en-US,en;q=0.5")
+			req.Header.Set("Referer", "https://html.duckduckgo.com/")
 
 			resp, err := client.Do(req)
 			if err != nil {
@@ -154,21 +161,32 @@ func worker(jobs <-chan KeywordItem, wg *sync.WaitGroup, results *map[string][]s
 
 			fmt.Printf("  [DEBUG] Found %d links on page %d\n", found, page)
 
-			// Find next page URL for pagination
-			nextURL := ""
-			doc.Find("form[action='/html/'] input[name='s']").Each(func(_ int, s *goquery.Selection) {
-				val, _ := s.Attr("value")
-				nextURL = fmt.Sprintf(
-					"https://html.duckduckgo.com/html/?q=%s&s=%s&dc=1&v=1&o=json&api=/d.js",
-					url.QueryEscape(kwItem.Keyword), val,
-				)
+			// Look for next page token in the HTML
+			nextPageToken = ""
+			doc.Find("form input[name='s']").Each(func(_ int, s *goquery.Selection) {
+				val, exists := s.Attr("value")
+				if exists && val != "" {
+					nextPageToken = val
+				}
 			})
 
-			if nextURL == "" {
-				fmt.Printf("  No more pages for '[%s] %s'\n", kwItem.Category, kwItem.Keyword)
+			// Alternative selectors for pagination token
+			if nextPageToken == "" {
+				doc.Find("input[name='s']").Each(func(_ int, sel *goquery.Selection) {
+					val, exists := sel.Attr("value")
+					if exists && val != "" && len(val) > 3 {
+						nextPageToken = val
+					}
+				})
+			}
+
+			// If no next page token found, stop pagination
+			if nextPageToken == "" {
+				fmt.Printf("  No more pages for '[%s] %s' (reached end)\n", kwItem.Category, kwItem.Keyword)
 				break
 			}
-			searchURL = nextURL
+
+			fmt.Printf("  [DEBUG] Next page token found, continuing...\n")
 			time.Sleep(2 * time.Second)
 		}
 	}

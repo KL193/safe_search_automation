@@ -1,5 +1,3 @@
 Adult:sex
-Programming:golang web scraping
-Programming:python tutorials
-Development:open source projects
+
 
