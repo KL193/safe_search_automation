@@ -1,0 +1,720 @@
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/index.html
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialspoint.com/python/index.htm
+[open source projects] [REACHABLE ✓ | 200] https://github.com/topics/open-source-project
+[open source projects] [FORBIDDEN | 403] https://medium.com/towards-agi/20-best-open-source-projects-on-github-ranked-cfa28b2bb726
+[python tutorials] [REACHABLE ✓ | 200] https://www.learnpython.org/
+[open source projects] [REACHABLE ✓ | 200] https://opensource.google/projects/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+[open source projects] [REACHABLE ✓ | 200] https://insights.linuxfoundation.org/collection/top-open-source-projects
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/
+[open source projects] [REACHABLE ✓ | 200] https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/python-basics/
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/
+[open source projects] [REACHABLE ✓ | 200] https://www.opensourceprojects.dev/
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialsteacher.com/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/about/gettingstarted/
+[open source projects] [REACHABLE ✓ | 200] https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4
+[open source projects] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/blogs/top-7-open-source-projects-for-beginners-to-explore/
+[open source projects] [REACHABLE ✓ | 200] https://www.upgrad.com/blog/open-source-projects-for-beginners/
+[open source projects] [FORBIDDEN | 403] https://hackr.io/blog/open-source-projects
+[open source projects] [REACHABLE ✓ | 200] https://github.com/e2b-dev/awesome-ai-agents
+[open source projects] [REACHABLE ✓ | 200] https://github.com/pinokiocomputer/pinokio
+[open source projects] [REACHABLE ✓ | 200] https://github.com/opensearch-project/OpenSearch
+[open source projects] [REACHABLE ✓ | 200] https://source.android.com/docs/core/architecture/bootloader/locking_unlocking
+[open source projects] [REACHABLE ✓ | 200] https://code.visualstudio.com/docs/sourcecontrol/quickstart
+[open source projects] [REACHABLE ✓ | 200] https://www.open3d.org/
+[open source projects] [REACHABLE ✓ | 200] https://source.android.com/docs/setup/test/flash
+[open source projects] [REACHABLE ✓ | 200] https://github.com/x64dbg/x64dbg
+[open source projects] [REACHABLE ✓ | 200] https://github.com/altstoreio/AltStore
+[open source projects] [REACHABLE ✓ | 200] https://sourceforge.net/projects/roblox-autoclicker-open/
+[open source projects] [REACHABLE ✓ | 200] https://owasp.org/www-project-top-10-for-large-language-model-applications/
+[open source projects] [REACHABLE ✓ | 200] https://www.prusa3d.com/page/prusaslicer_424/
+[open source projects] [FORBIDDEN | 403] https://universe.roboflow.com/
+[open source projects] [REACHABLE ✓ | 200] https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html
+[open source projects] [REACHABLE ✓ | 200] https://github.com/topics/open-source-project
+[open source projects] [REACHABLE ✓ | 200] https://www.openproject.org/
+[open source projects] [REACHABLE ✓ | 200] https://github.com/open-source
+[open source projects] [FORBIDDEN | 403] https://medium.com/towards-agi/20-best-open-source-projects-on-github-ranked-cfa28b2bb726
+[open source projects] [REACHABLE ✓ | 200] https://github.com/topics/open-source
+[open source projects] [REACHABLE ✓ | 200] https://opensource.org/
+[open source projects] [REACHABLE ✓ | 200] https://www.opensourceprojects.dev/
+[open source projects] [REACHABLE ✓ | 200] https://opensource.google/projects/
+[open source projects] [REACHABLE ✓ | 200] https://insights.linuxfoundation.org/collection/top-open-source-projects
+[open source projects] [REACHABLE ✓ | 200] https://opensource.com/resources/projects-and-applications
+[open source projects] [REACHABLE ✓ | 200] https://opensource.com/
+[open source projects] [REACHABLE ✓ | 200] https://github.com/explore
+[open source projects] [FORBIDDEN | 403] https://en.wikipedia.org/wiki/Open_source
+[open source projects] [FORBIDDEN | 403] https://hackr.io/blog/open-source-projects
+[open source projects] [REACHABLE ✓ | 200] https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4
+[open source projects] [REACHABLE ✓ | 200] https://www.index.dev/blog/top-open-source-github-projects
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/index.html
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialspoint.com/python/index.htm
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+[open source projects] [REACHABLE ✓ | 200] https://github.com/topics/open-source-project
+[open source projects] [FORBIDDEN | 403] https://medium.com/towards-agi/20-best-open-source-projects-on-github-ranked-cfa28b2bb726
+[open source projects] [REACHABLE ✓ | 200] https://opensource.google/projects/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/
+[open source projects] [REACHABLE ✓ | 200] https://insights.linuxfoundation.org/collection/top-open-source-projects
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/python-basics/
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/about/gettingstarted/
+[open source projects] [REACHABLE ✓ | 200] https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialsteacher.com/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming
+[open source projects] [REACHABLE ✓ | 200] https://www.opensourceprojects.dev/
+[open source projects] [REACHABLE ✓ | 200] https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4
+[open source projects] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/blogs/top-7-open-source-projects-for-beginners-to-explore/
+[open source projects] [REACHABLE ✓ | 200] https://www.upgrad.com/blog/open-source-projects-for-beginners/
+[open source projects] [FORBIDDEN | 403] https://hackr.io/blog/open-source-projects
+[python tutorials] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=alison.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=QAdC943ghMsXZ6V5puzBsbZygICLz7U4%2DxBDSnw31oGYfds07S5xSUG2j2cw87B0oUzYZNAIrun%2DlagXFII%2Dng_9D7qOVqD%2DX7aDH5ZxDzkc9ZFHqRopvi_cqbQkFJdyr7NsSwsAvol6_qSbaJb%2DkA.DPIXMz22anMTd7wYS1fNSw&rut=f322ee02f4b3f06a819f424dcc24b99c16faaed95ef673ed158b1b8024e9db55&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8ZagbaisRMxydvNvxBKu8xDVUCUz7pVYgg_RCN9KYwZKX2ZsOuBwl6DtiU0aJmYSe1O89D5XLiz5tIOQXhHMAlBorcEiBGOtlXVn6x5H3GfG0StQ8623LZAwk61EzFyuxuQ64m2JaXUDGm4YfLmslzNYONmQjYNEW1wqzcgRDoLi3skwpyuB0zv9hKQOR9cgOX05sVasZnmRJaNS1Bv3RRmvosR4%26u%3DaHR0cHMlM2ElMmYlMmZhbGlzb24uY29tJTJmY291cnNlJTJmaW50cm9kdWN0aW9uLXRvLXByb2dyYW1taW5nLXdpdGgtcHl0aG9uLXJldmlzZWQlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q1MzMyMzQyMTYlMjZ1dG1fY29udGVudCUzZDEzNjMzOTcxMTM0ODQ4MzAlMjZ1dG1fdGVybSUzZGt3ZC0yMzM3MDExOTY1ODYyNDkzJTNhbG9jLTM2JTI2bXNjbGtpZCUzZDdhMjc3MDdjNzQxMjE3MzllOTVmMTllNDc2NmMzYjIy%26rlid%3D7a27707c74121739e95f19e4766c3b22&vqd=4-49652549004199724978216573911705480103&iurl=%7B1%7DIG%3DF26FE7F67031437E9224E2E4366BC5CF%26CID%3D253C7E95B4D56AB6355D6993B52D6B13%26ID%3DDevEx%2C5040.1
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/courses/master-python-complete-beginner-to-advanced
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/tkinter/
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming
+[open source projects] [REACHABLE ✓ | 200] https://github.com/e2b-dev/awesome-ai-agents
+[python tutorials] [REACHABLE ✓ | 200] https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+[open source projects] [REACHABLE ✓ | 200] https://github.com/pinokiocomputer/pinokio
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/python-exercises-with-solutions/
+[python tutorials] [REACHABLE ✓ | 200] https://www.dataquest.io/blog/python-projects-for-beginners/
+[open source projects] [REACHABLE ✓ | 200] https://github.com/opensearch-project/OpenSearch
+[open source projects] [REACHABLE ✓ | 200] https://source.android.com/docs/core/architecture/bootloader/locking_unlocking
+[open source projects] [REACHABLE ✓ | 200] https://code.visualstudio.com/docs/sourcecontrol/quickstart
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/machine-learning/machine-learning-with-python/
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/if-elif-else
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/operators
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/list
+[open source projects] [REACHABLE ✓ | 200] https://www.open3d.org/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/opencv-python-tutorial/
+[open source projects] [REACHABLE ✓ | 200] https://source.android.com/docs/setup/test/flash
+[open source projects] [REACHABLE ✓ | 200] https://github.com/x64dbg/x64dbg
+[open source projects] [REACHABLE ✓ | 200] https://github.com/altstoreio/AltStore
+[open source projects] [REACHABLE ✓ | 200] https://sourceforge.net/projects/roblox-autoclicker-open/
+[open source projects] [REACHABLE ✓ | 200] https://owasp.org/www-project-top-10-for-large-language-model-applications/
+[open source projects] [REACHABLE ✓ | 200] https://www.prusa3d.com/page/prusaslicer_424/
+[open source projects] [FORBIDDEN | 403] https://universe.roboflow.com/
+[python tutorials] [REACHABLE ✓ | 200] https://www.boot.dev/courses/learn-code-python
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/
+[python tutorials] [REACHABLE ✓ | 200] https://blog.jetbrains.com/pycharm/2026/02/langchain-tutorial-2026/
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_json.asp
+[python tutorials] [FORBIDDEN | 403] https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+[open source projects] [REACHABLE ✓ | 200] https://www.cnbc.com/2025/09/23/openai-first-data-center-in-500-billion-stargate-project-up-in-texas.html
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/venv.html
+[open source projects] [REACHABLE ✓ | 200] https://github.com/topics/open-source-project
+[python tutorials] [REACHABLE ✓ | 200] https://support.microsoft.com/en-us/office/get-started-with-python-in-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d
+[python tutorials] [REACHABLE ✓ | 200] https://code.visualstudio.com/docs/python/python-quick-start
+[python tutorials] [REACHABLE ✓ | 200] https://learn.microsoft.com/en-us/windows/python/beginners
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_howto_reverse_string.asp
+[open source projects] [REACHABLE ✓ | 200] https://www.openproject.org/
+[python tutorials] [REACHABLE ✓ | 200] https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python
+[open source projects] [REACHABLE ✓ | 200] https://github.com/open-source
+[open source projects] [FORBIDDEN | 403] https://medium.com/towards-agi/20-best-open-source-projects-on-github-ranked-cfa28b2bb726
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/learn/ai-python-for-beginners
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/default.asp
+[open source projects] [REACHABLE ✓ | 200] https://github.com/topics/open-source
+[open source projects] [REACHABLE ✓ | 200] https://opensource.org/
+[open source projects] [REACHABLE ✓ | 200] https://www.opensourceprojects.dev/
+[open source projects] [REACHABLE ✓ | 200] https://opensource.google/projects/
+[open source projects] [REACHABLE ✓ | 200] https://insights.linuxfoundation.org/collection/top-open-source-projects
+[open source projects] [REACHABLE ✓ | 200] https://opensource.com/resources/projects-and-applications
+[open source projects] [REACHABLE ✓ | 200] https://opensource.com/
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/
+[open source projects] [REACHABLE ✓ | 200] https://github.com/explore
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/create-virtual-environment-using-venv-python/
+[open source projects] [FORBIDDEN | 403] https://en.wikipedia.org/wiki/Open_source
+[open source projects] [FORBIDDEN | 403] https://hackr.io/blog/open-source-projects
+[open source projects] [REACHABLE ✓ | 200] https://dev.to/anmolbaranwal/20-open-source-projects-you-shouldnt-miss-in-2024-3ja4
+[open source projects] [REACHABLE ✓ | 200] https://www.index.dev/blog/top-open-source-github-projects
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/learn/learn-python-3
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/catalog/language/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_intro.asp
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=kqtD5dpn9C8
+[open source projects] [REACHABLE ✓ | 200] https://github.com/collections/choosing-projects
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/learn/learn-python
+[open source projects] [REACHABLE ✓ | 200] https://www.rocket.chat/blog/open-source-projects
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/add-python-to-path/
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/learn/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/doc/
+[open source projects] [REACHABLE ✓ | 200] https://enatega.com/top-open-source-projects/
+[open source projects] [REACHABLE ✓ | 200] https://daily.dev/blog/10-ways-to-find-open-source-projects-to-contribute-in-2024
+[open source projects] [FORBIDDEN | 403] https://medium.com/@pratiyush1/15-open-source-projects-that-changed-the-world-26ecb8abee97
+[python tutorials] [REACHABLE ✓ | 200] https://www.khanacademy.org/computing/intro-to-python-fundamentals
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=rfscVS0vtbw
+[open source projects] [REACHABLE ✓ | 200] https://github.com/topics/opensource-projects
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/start-here/
+[open source projects] [REACHABLE ✓ | 200] https://github.com/trending
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=b093aqAZiPU
+[open source projects] [REACHABLE ✓ | 200] https://github.com/open-source-ideas/ideas
+[open source projects] [REACHABLE ✓ | 200] https://gitlab.com/explore/projects
+[open source projects] [FORBIDDEN | 403] https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects
+[open source projects] [REACHABLE ✓ | 200] https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/
+[open source projects] [REACHABLE ✓ | 200] https://github.com/MunGell/awesome-for-beginners
+[open source projects] [REACHABLE ✓ | 200] https://www.codetriage.com/
+[open source projects] [REACHABLE ✓ | 200] https://opensource.google/
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/index.html
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/web-scraping-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialspoint.com/python/index.htm
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapingbee.com/blog/web-scraping-go/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapfly.io/blog/posts/web-scraping-with-go
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/python-basics/
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/about/gettingstarted/
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/gocolly/colly
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialsteacher.com/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming
+[golang web scraping] [REACHABLE ✓ | 200] https://roundproxies.com/blog/web-scraping-golang/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.zyte.com/learn/golang-web-scraping-in-2025-tools-techniques-and-best-practices/
+[golang web scraping] [REACHABLE ✓ | 200] https://hasdata.com/blog/web-scraping-with-go
+[python tutorials] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=alison.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=GaQoIBMllZS_CDtJFuaxZUo3vFSirVD_XMayc4lyf2KagMlWHnvPmuxBvfod2AryOfou3bJkeEyQCb0ls8ixVIJR1yctn%2D9pVt7Z8UUeZbAUgdAsLRan4f_OLRTEuy1s74Zug9eFCXf8m6NPmmzHCw.IIi2XDsTQEADPIOUcP2bBQ&rut=580cd540c5bad7cb74e8b7af0a0ad2d7c38a0f66c2df52bece4eb7edb92028f3&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8AvPADgHdbcYjEi7zhPAjeTVUCUzb6fC0vkdCmQxWTO5l%2DnL9tOgMqGqmVjrhjMJGNRCveb5Gy2rf8mIqgPe2OlKFgylh47PHA6oynOj1tUjmmrK1fcTDFciwf7rowq7LDRnNus33gZEGf5nRSK_jL8lo%2DW9IEAC_c6dCCMtWoi0gim2noH2bdQ54hOmwccCCgyxgpKjzttEiJ8k3HscmsLg2qwE%26u%3DaHR0cHMlM2ElMmYlMmZhbGlzb24uY29tJTJmY291cnNlJTJmaW50cm9kdWN0aW9uLXRvLXByb2dyYW1taW5nLXdpdGgtcHl0aG9uLXJldmlzZWQlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q1MzMyMzQyMTYlMjZ1dG1fY29udGVudCUzZDEzNjMzOTcxMTM0ODQ4MzAlMjZ1dG1fdGVybSUzZGt3ZC0yMzM3MDExOTY1ODYyNDkzJTNhbG9jLTM2JTI2bXNjbGtpZCUzZDE5YmJiNmQ1Yzg3YzFlZGI5ZmY2ZGY0ZGNhY2JmYmQ1%26rlid%3D19bbb6d5c87c1edb9ff6df4dcacbfbd5&vqd=4-237520152940669800012900924854684078986&iurl=%7B1%7DIG%3DF08E1027DABD44F9B75EA6752093BE57%26CID%3D2798922F92486D353C768529932A6CB3%26ID%3DDevEx%2C5040.1
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/courses/master-python-complete-beginner-to-advanced
+[golang web scraping] [REACHABLE ✓ | 200] https://www.ipcook.com/blog/how-to-scrap-data-from-web-with-golang
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/tkinter/
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming
+[golang web scraping] [REACHABLE ✓ | 200] https://thelinuxcode.com/web-scraping-go/
+[python tutorials] [REACHABLE ✓ | 200] https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/python-exercises-with-solutions/
+[python tutorials] [REACHABLE ✓ | 200] https://www.dataquest.io/blog/python-projects-for-beginners/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/machine-learning/machine-learning-with-python/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.foxscrape.com/blog/web-scraping-with-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/if-elif-else
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/operators
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/list
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/opencv-python-tutorial/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapfly.io/blog/posts/web-scraping-with-go
+[golang web scraping] [REACHABLE ✓ | 200] https://roundproxies.com/blog/web-scraping-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://www.boot.dev/courses/learn-code-python
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/
+[golang web scraping] [REACHABLE ✓ | 200] https://blog.apify.com/golang-web-scraping/
+[python tutorials] [REACHABLE ✓ | 200] https://blog.jetbrains.com/pycharm/2026/02/langchain-tutorial-2026/
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_json.asp
+[python tutorials] [FORBIDDEN | 403] https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/venv.html
+[golang web scraping] [REACHABLE ✓ | 200] https://oxylabs.io/blog/golang-web-scraper
+[python tutorials] [REACHABLE ✓ | 200] https://support.microsoft.com/en-us/office/get-started-with-python-in-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d
+[python tutorials] [REACHABLE ✓ | 200] https://code.visualstudio.com/docs/python/python-quick-start
+[python tutorials] [REACHABLE ✓ | 200] https://learn.microsoft.com/en-us/windows/python/beginners
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_howto_reverse_string.asp
+[golang web scraping] [REACHABLE ✓ | 200] https://webscrapingsite.com/resources/golang-web-scraper/
+[python tutorials] [REACHABLE ✓ | 200] https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-plus-ce-python
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/learn/ai-python-for-beginners
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/default.asp
+[golang web scraping] [REACHABLE ✓ | 200] https://www.marketingscoop.com/tech/web-scraping/web-scraping-go/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.rickyspears.com/scraper/web-scraping-go/
+[python tutorials] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=codecademy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=%2DRw6NoFmxHbi2M8qLPvbD2Brg0JqU45KRQ0_rfH8woOUxWTHDT26kZkaiFVQMBw61D2wDZ2fdvFnSOG9vsHlBVv8fq3nGDl5MBr2IBXHyTm7qefxGLM5aAIIKcTY3iu6OuBthFVjyfJWJ0GWrQuyJA.maoa6f0CbqFUG_EPE%2DpTGQ&rut=5eb675105b9ed4742e7eac6add0b49c01cba40ef45a076eef21260870b6a6f51&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8lGWy_09LWlXAA3HP5WZrUjVUCUzR78adbiu_ULhJ1aHRYLo35vhCdT8Y34jxw1e4p_4LCLWouU1jf8eNe3NoEUcTFZo7kiM7BXtmp3qCFXkdiHAFwY7aBYt7bWE2TwKDCf_XFzWu9CrEWrFEER13e%2DyWtYHHmidRjATYPS11HsjBEE2uo74id7hn8d0ZRBFFnu_9Ul4bYuMXzCMJKB8b4MCHZKA%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuY29kZWNhZGVteS5jb20lMmZsZWFybiUyZnBhdGhzJTJmZGF0YS1zY2llbmNlJTNmZ19uZXR3b3JrJTNkbyUyNmdfcHJvZHVjdGNoYW5uZWwlM2QlMjZnX2FkaWQlM2QlMjZnX2xvY2ludGVyZXN0JTNkJTI2Z19rZXl3b3JkJTNkbGVhcm4lMjUyMHB5dGhvbiUyNTIwb25saW5lJTI2Z19hY2N0aWQlM2QyNDMtMDM5LTcwMTElMjZnX2FkdHlwZSUzZCUyNmdfa2V5d29yZGlkJTNka3dkLTc5MDk2NzA4MzI5MTQwJTNhbG9jLTM2JTI2Z19pZmNyZWF0aXZlJTNkJTI2Z19jYW1wYWlnbiUzZGFjY291bnQlMjZnX2xvY3BoeXNpY2FsJTNkMTQ3OTAxJTI2Z19hZGdyb3VwaWQlM2QxMjY1NTM4NTE5OTQ5OTczJTI2Z19wcm9kdWN0aWQlM2QlMjZnX3NvdXJjZSUzZCU3YnNvdXJjZWlkJTdkJTI2Z19tZXJjaGFudGlkJTNkJTI2Z19wbGFjZW1lbnQlM2QlMjZnX3BhcnRpdGlvbiUzZCUyNmdfY2FtcGFpZ25pZCUzZDM3MDM3OTY0MyUyNmdfaWZwcm9kdWN0JTNkJTI2dXRtX2lkJTNkdF9rd2QtNzkwOTY3MDgzMjkxNDAlM2Fsb2MtMzYlM2FhZ18xMjY1NTM4NTE5OTQ5OTczJTNhY3BfMzcwMzc5NjQzJTNhbl9vJTNhZF9jJTI2bXNjbGtpZCUzZGE2MmRiMWVkNmYyMTE3ODYwZmJjZDg3NTZkZTQ4ZGJjJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkUk9XJTI1MjAtJTI1MjBCcm9hZCUyNnV0bV90ZXJtJTNkbGVhcm4lMjUyMHB5dGhvbiUyNTIwb25saW5lJTI2dXRtX2NvbnRlbnQlM2RweXRob24%26rlid%3Da62db1ed6f2117860fbcd8756de48dbc&vqd=4-159485878063398029924908307518309267063&iurl=%7B1%7DIG%3D27D60BC380EB47EBA3D0BEADBF4DB7C1%26CID%3D0AB3040A241E65CC0928130C257C6491%26ID%3DDevEx%2C5041.1
+[python tutorials] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=alison.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=RHyjcPTyurHAvL_KNFZHW9DVYlnR24bfIguvZ3Rr_UTc_9kcXk8O_kp7blO5S4NM5xZGEMS81BXI949wKM6Rkwluf_vnKdgYqyc0wprAcwcjftl1o%2DhRp%2DG944XOZ7D156BCFNmAU7f6Dx2sV9fcTw.mAbQltWChBbKVoF39C4A3w&rut=0d1f5a3e4d231d4c8c8769a4fb694ca8e41227535a2e7d221e658808e3ecc886&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8l9k9HUU%2DHfIiGoauQx3kuzVUCUyMsjPAqi_uJj0V7VSMCtZksPzR8t2TRdWqrSEe0tA_9Gc%2D7N%2D0soTczkGwhtKMqQacfSfhlxlWVDzpiQ6athf2_J%2DnZoffg6KdB9%2DpbNC3N7WVaLJFNYu6IePc03PDfWZ0PhcUQMFiysPQVk0ok_OlKEKawMj%2DeKFcz6v3u3Qy8ligBXkCJVRqKsNJSZd6RFg%26u%3DaHR0cHMlM2ElMmYlMmZhbGlzb24uY29tJTJmY291cnNlJTJmaW50cm9kdWN0aW9uLXRvLXByb2dyYW1taW5nLXdpdGgtcHl0aG9uLXJldmlzZWQlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q1MzMyMzQyMTYlMjZ1dG1fY29udGVudCUzZDEzNjMzOTcxMTM0ODQ4MzAlMjZ1dG1fdGVybSUzZGt3ZC0yMzM3MDExOTY1ODYyNDkzJTNhbG9jLTM2JTI2bXNjbGtpZCUzZDcxNWNlODcwYjI0NzE1ZjFjMjM2ODFlOGIwODIwMmQx%26rlid%3D715ce870b24715f1c23681e8b08202d1&vqd=4-199974664040926778280565522259893534859&iurl=%7B1%7DIG%3D27D60BC380EB47EBA3D0BEADBF4DB7C1%26CID%3D0AB3040A241E65CC0928130C257C6491%26ID%3DDevEx%2C5047.1
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/create-virtual-environment-using-venv-python/
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/tech-engine/goscrapy
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/learn/learn-python-3
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/catalog/language/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_intro.asp
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=kqtD5dpn9C8
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/learn/learn-python
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scraperapi.com/web-scraping/golang/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/add-python-to-path/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.ipcook.com/blog/how-to-scrap-data-from-web-with-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/learn/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/doc/
+[golang web scraping] [REACHABLE ✓ | 200] https://liveproxies.io/blog/go-web-scraping
+[python tutorials] [REACHABLE ✓ | 200] https://www.khanacademy.org/computing/intro-to-python-fundamentals
+[golang web scraping] [REACHABLE ✓ | 200] https://infatica.io/blog/web-scraper-with-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=rfscVS0vtbw
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/start-here/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapingant.com/blog/web-scraping-go
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=b093aqAZiPU
+[golang web scraping] [REACHABLE ✓ | 200] https://rayobyte.com/blog/golang-web-scraper/
+[golang web scraping] [REACHABLE ✓ | 200] https://coderscratchpad.com/web-scraping-with-golang-techniques-and-tools/
+[python tutorials] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=codecademy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=nJfPu29TuGjH9YmXIxIDY7Pti4I6u9pTiL002JVXiSffFrgnU2D6MvBv2lMN8VBfXXjDSbY5trOklIgXev4L9IOfd1z8beX4ZNfyW3JtFTpGrsgnWLSDs5ii0iMUDoR4V%2D3wvHrn7BlL8GzSpzfV%2DQ.t12RmsSZjL6v_E4MO87Z0w&rut=9bec5e914b3cd8770feaa99a8d39806723ef6b7314b16ec71bbb21596ad658e8&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8us6Fy95lH%2D3jJRPOuSHeJTVUCUzukWgSar5WPtnLhh5RjCJNVl4fwkTMFjXC70PCiZmhSkOmSjFlEZkrhjg5JH6tq1GyatyussrCO%2DjV9kj20B7dVPzqdI1kDYVK_nFNrRSN6nlwbDI%2Dp8nzcrWw0bTdFIgC0TYDKF04iT8VS6FvbMDRZqvvIIyYYjEM9SqbPJeb7p_OdYJftJ1yv9jmxAgs4xs%26u%3DaHR0cHMlM2ElMmYlMmZ0cnkuY29kZWNhZGVteS5jb20lMmZsZWFybi1weXRob24tMyUzZmdfbmV0d29yayUzZG8lMjZnX3Byb2R1Y3RjaGFubmVsJTNkJTI2Z19hZGlkJTNkJTI2Z19sb2NpbnRlcmVzdCUzZCUyNmdfa2V5d29yZCUzZGNvdXJzZSUyNTIwcHl0aG9uJTI2Z19hY2N0aWQlM2QyNDMtMDM5LTcwMTElMjZnX2FkdHlwZSUzZCUyNmdfa2V5d29yZGlkJTNka3dkLTc5MDk2NzA4MzI5MTI2JTNhbG9jLTM2JTI2Z19pZmNyZWF0aXZlJTNkJTI2Z19jYW1wYWlnbiUzZGFjY291bnQlMjZnX2xvY3BoeXNpY2FsJTNkMTQ3OTA2JTI2Z19hZGdyb3VwaWQlM2QxMjY1NTM4NTE5OTQ5OTczJTI2Z19wcm9kdWN0aWQlM2QlMjZnX3NvdXJjZSUzZCU3YnNvdXJjZWlkJTdkJTI2Z19tZXJjaGFudGlkJTNkJTI2Z19wbGFjZW1lbnQlM2QlMjZnX3BhcnRpdGlvbiUzZCUyNmdfY2FtcGFpZ25pZCUzZDM3MDM3OTY0MyUyNmdfaWZwcm9kdWN0JTNkJTI2dXRtX2lkJTNkdF9rd2QtNzkwOTY3MDgzMjkxMjYlM2Fsb2MtMzYlM2FhZ18xMjY1NTM4NTE5OTQ5OTczJTNhY3BfMzcwMzc5NjQzJTNhbl9vJTNhZF9jJTI2bXNjbGtpZCUzZDljNTg3MjA0NjYyMzFjNzQzNDU2MWI5YzY0ZjM3ODA0JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkUk9XJTI1MjAtJTI1MjBCcm9hZCUyNnV0bV90ZXJtJTNkY291cnNlJTI1MjBweXRob24lMjZ1dG1fY29udGVudCUzZHB5dGhvbg%26rlid%3D9c58720466231c7434561b9c64f37804&vqd=4-27060870868605183661320555792366593766&iurl=%7B1%7DIG%3D24FDC2826FE24001BA32994C57479847%26CID%3D2F4FBC7D5E4C6BE11D52AB7B5FB46AF2%26ID%3DDevEx%2C5042.1
+[python tutorials] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=wyzant.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=aj%2D5TktKzSGe%2DtlvfEhGVp5M2eKxQq_tWCDTphZZ1ckcf9REGvL3xCbkYAFQGd9IuWmK2ErK2CdYoWSj0IDHO83jtzXU3kQdYPdy6G3sN6i0BpLsffKE6QX8_czSorot63hNg2pfa0UORwfKjTB9wQ.HRn2JuCNpCe5A4niCMK9hg&rut=f77618f4373e1631d107a70104f3a185863ddc7f1da41d88ab8e6e768e58bca0&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8MrULJ0JTk5N0EDCKsP%2Da7jVUCUya4ykpMzSvZI%2DPgIAnFik_V7PtSluEL1wB7F8hUSj9yoAd0tU2G6hymi%2DE9jTcDXDyOLorgADZ8FKEgBmXV1GJd1vdHRcFGyVpiIPDnXgxAVpAnfMJ4Y36gRaKkhDOVq5SpY6q4vkgKWOUhXqsKv1PtO7TDL2HOkYlQkc7J7wVgb0riGwHsm_pfSn6efocwjc%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cud3l6YW50LmNvbSUyZlB5dGhvbl90dXRvcnMuYXNweCUzZnVybE5hbWUlM2QlMjZnJTNkR29vZ2xlQWR3b3JkcyUyNmF3Y2FtcGFpZ25pZCUzZDU5MDE1MDEyMSUyNmF3YWRncm91cGlkJTNkMTIzMzY1MzA0NjcxOTM4NCUyNmF3YWNlaWQlM2QlN2JhY2VpZCU3ZCUyNmF3Y2lkJTNkJTI2YXdpbSUzZCUyNmF3a3clM2RsZWFybmluZyUyNTIwcHl0aG9uJTI2YXdtdCUzZGUlMjZhd24lM2RvJTI2YXdwJTNkJTI2YXd0JTNkJTI2bWt3aWQlM2RzJTI2cGNyaWQlM2QlMjZwa3clM2RsZWFybmluZyUyNTIwcHl0aG9uJTI2cG10JTNkZSUyNnBkdiUzZGMlMjZzbGlkJTNkJTI2cGh5c2lkJTNkMTQ3OTA2JTI2aW50aWQlM2QlMjZiZ1NlZyUzZCUyNm1zY2xraWQlM2Q5MjZhNzIwYWQ4OTUxZGZjMDA5OTFiOTJkYTQ1MDM4OCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFNlYXJjaF9TdWJqZWN0X0NvbXB1dGVyJTI1MjBTY2llbmNlJTI2dXRtX3Rlcm0lM2RsZWFybmluZyUyNTIwcHl0aG9uJTI2dXRtX2NvbnRlbnQlM2RTdWJqZWN0X0NvbXB1dGVyJTI1MjBTY2llbmNlX1B5dGhvbg%26rlid%3D926a720ad8951dfc00991b92da450388&vqd=4-149059086430368271599071123531597460703&iurl=%7B1%7DIG%3D24FDC2826FE24001BA32994C57479847%26CID%3D2F4FBC7D5E4C6BE11D52AB7B5FB46AF2%26ID%3DDevEx%2C5055.1
+[python tutorials] [REACHABLE ✓ | 200] https://learn.microsoft.com/en-us/shows/intro-to-python-development/python-for-beginners-1-of-44-programming-with-python
+[python tutorials] [OTHER | 415] https://www.learnpython.org/en/
+[golang web scraping] [OTHER | 406] https://codezup.com/building-a-web-scraper-with-golang-and-net-http/
+[golang web scraping] [REACHABLE ✓ | 200] https://thelinuxcode.com/web-scraping-go/
+[golang web scraping] [REACHABLE ✓ | 200] https://golangdocs.com/golang-web-page-scraping-goquery
+[python tutorials] [REACHABLE ✓ | 200] https://python.land/python-tutorial
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapeless.com/en/wiki/web-scraping-with-golang
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/introduction.html
+[golang web scraping] [OTHER | 406] https://codezup.com/golang-web-scraper-guide/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=_uQrJ0TkZlc
+[golang web scraping] [REACHABLE ✓ | 200] https://www.webscrapingapi.com/the-ultimate-guide-on-how-to-start-web-scraping-with-go
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/oxylabs-io/building-a-web-scraper-in-golang-complete-tutorial-34if
+[python tutorials] [REACHABLE ✓ | 200] https://www.codedex.io/python
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapedev.com/blog/top-5-golang-libraries-for-web-scraping
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/tutorials/basics/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/tutorials/all/
+[golang web scraping] [REACHABLE ✓ | 200] https://rebrowser.net/blog/web-scraping-with-go-a-practical-guide-from-basics-to-production
+[python tutorials] [FORBIDDEN | 403] https://www.guru99.com/python-tutorials.html
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/golang-web-crawler
+[python tutorials] [REACHABLE ✓ | 200] https://wiki.python.org/moin/BeginnersGuide
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/topics/web-scraping?l=go
+[python tutorials] [NOT FOUND | 404] https://www.kaggle.com/learn/python
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/learning-paths/python-basics/
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/siddheshk02/web-scraping-in-golang-4hcl
+[python tutorials] [REACHABLE ✓ | 200] https://learnxinyminutes.com/python/
+[golang web scraping] [FORBIDDEN | 403] https://medium.com/@dmitvas/using-go-for-web-scraping-7f70910b0ca8
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialsteacher.com/python
+[golang web scraping] [REACHABLE ✓ | 200] https://www.reddit.com/r/golang/comments/129n1g4/web_scraping_with_go/
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_getstarted.asp
+[python tutorials] [REACHABLE ✓ | 200] https://learn.microsoft.com/en-us/shows/intro-to-python-development/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.foxscrape.com/blog/web-scraping-with-golang
+[python tutorials] [REACHABLE ✓ | 200] https://pythontutor.com/
+[golang web scraping] [OTHER | 406] https://codezup.com/getting-started-with-go-build-web-scraper-tutorial/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/python-first-steps/
+[golang web scraping] [REACHABLE ✓ | 200] https://marsproxies.com/blog/golang-web-scraper/
+[python tutorials] [REACHABLE ✓ | 200] https://www.learnpython.org/en/Welcome
+[python tutorials] [REACHABLE ✓ | 200] https://learnopencv.com/alpha-blending-using-opencv-cpp-python/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapeless.com/zh/blog/golang-web-crawler
+[python tutorials] [REACHABLE ✓ | 200] https://developers.google.com/edu/python/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/tutorials/python/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.capsolver.com/blog/web-scraping/web-scraping-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapingdog.com/blog/web-scraping-with-go/
+[python tutorials] [REACHABLE ✓ | 200] https://www.sololearn.com/en/learn/courses/python-introduction
+[golang web scraping] [REACHABLE ✓ | 200] https://friendlyuser.github.io/posts/tech/go/web_scrapping_in_golang/
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/lorien/awesome-web-scraping/blob/master/golang.md
+[python tutorials] [REACHABLE ✓ | 200] https://cs50.harvard.edu/python/
+[golang web scraping] [REACHABLE ✓ | 200] https://jsschools.com/golang/how-to-build-a-high-performance-web-scraper-in-go/
+[python tutorials] [FORBIDDEN | 403] https://pythongeeks.org/learn-python-tutorial/
+[golang web scraping] [RATE LIMITED | 429] https://blog.cloudnativefolks.org/web-scraping-in-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.digitalocean.com/community/tutorials/python-tutorial
+[golang web scraping] [OTHER | 406] https://codezup.com/go-web-scraper-guide/
+[golang web scraping] [REACHABLE ✓ | 200] https://thunderbit.com/blog/get-started-web-scraping-go-easy-steps
+[python tutorials] [FORBIDDEN | 403] https://www.simplilearn.com/tutorials/python-tutorial
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=eWRfhZUzrAc
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/fuenrob/explorando-el-web-scraping-con-golang-a-traves-de-colly-442i
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapeless.com/en/blog/golang-web-crawler
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/scrapfly_dev/web-scraping-with-go-2d53
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.in/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/dsa/write-regular-expressions/
+[python tutorials] [REACHABLE ✓ | 200] https://academy.jetbrains.com/
+[python tutorials] [REACHABLE ✓ | 200] https://www.edx.org/learn/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialspoint.com/python/python_overview.htm
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/cornelk/goscrape
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=K5KVEU3aaeQ
+[golang web scraping] [REACHABLE ✓ | 200] https://scrape.do/blog/selenium-in-golang-step-by-step-tutorial/
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/learn/python-basics
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=VchuKL44s6E
+[golang web scraping] [OTHER | 406] https://codezup.com/a-step-by-step-guide-to-creating-a-golang-web-scraper/
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3.11/tutorial/
+[python tutorials] [FORBIDDEN | 403] https://www.datacamp.com/blog/how-to-learn-python-expert-guide
+[golang web scraping] [REACHABLE ✓ | 200] https://iproyal.com/blog/how-to-build-a-golang-web-scraper-the-ultimate-guide/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=sCOw5y1RQpY
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=QXeEoD0pB3E
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/learning-paths/
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/pages/learn-python-with-pro
+[golang web scraping] [REACHABLE ✓ | 200] https://mrscraper.com/blog/web-scraping-with-golang
+[golang web scraping] [FORBIDDEN | 403] https://medium.com/@arnesh07/how-golang-can-save-you-days-of-web-scraping-72f019a6de87
+[golang web scraping] [REACHABLE ✓ | 200] https://yaoweibin.cn/web-scraping-golang/
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/geziyor/geziyor
+[golang web scraping] [REACHABLE ✓ | 200] https://www.reddit.com/r/golang/comments/1c4korg/does_go_work_for_web_scraping/
+[golang web scraping] [REACHABLE ✓ | 200] https://blog.logrocket.com/building-web-scraper-go-colly/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=hEgO047GxaQ
+[python tutorials] [REACHABLE ✓ | 200] https://www.dataquest.io/blog/learn-python-the-right-way/
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/playwright-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/gosom/scrapemate
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/specializations/python
+[golang web scraping] [REACHABLE ✓ | 200] https://clouddevs.com/go/web-scraping/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=H2EJuAcrZYU
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_ml_train_test.asp
+[golang web scraping] [FORBIDDEN | 403] https://medium.com/@Shoaibwaqar665/unlock-the-power-of-web-scraping-with-colly-in-golang-588da159e540
+[python tutorials] [REACHABLE ✓ | 200] https://www.udacity.com/course/introduction-to-python--ud1110
+[golang web scraping] [REACHABLE ✓ | 200] https://www.capsolver.com/blog/Theothercaptcha/web-scraping-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.digitalocean.com/community/tutorials/python-tutorial-beginners
+[python tutorials] [REACHABLE ✓ | 200] https://www.learnpython.org/en/Hello%2C_World%21
+[python tutorials] [REACHABLE ✓ | 200] https://techbeamers.com/python-tutorial-step-by-step/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=t8pPdKYpowI
+[golang web scraping] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=NU4OlJVj1gs
+[python tutorials] [REACHABLE ✓ | 200] https://kinsta.com/blog/python-tutorials/
+[golang web scraping] [RATE LIMITED | 429] https://blog.gkomninos.com/getting-started-with-web-scraping-using-golang-and-scrapemate
+[python tutorials] [REACHABLE ✓ | 200] https://www.dataquest.io/guide/python-tutorial/
+[golang web scraping] [REACHABLE ✓ | 200] https://gregtczap.com/blog/golang-scraping-strategies-frameworks/
+[python tutorials] [REACHABLE ✓ | 200] https://pythonprogramming.net/
+[golang web scraping] [BLOCKED (SSL error)] https://www.go-colly.org/docs/
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapingant.com/blog/scrape-dynamic-website-with-go
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/tutorials/advanced/
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/vianeltxt/how-to-build-a-web-scraper-using-golang-with-colly-18lh
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/web-scraping-golang-vs-python
+[golang web scraping] [FORBIDDEN | 403] https://medium.com/zeals-tech-blog/web-scraping-with-concurrency-in-golang-59d6f0037bad
+[golang web scraping] [OTHER | 405] https://www.slingacademy.com/article/building-concurrent-web-scrapers-with-go/
+[golang web scraping] [FORBIDDEN | 403] https://faun.pub/web-scrapping-using-golang-gocolly-21f824070291
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/learn/python-v9/
+[golang web scraping] [FORBIDDEN | 403] https://www.bomberbot.com/scraper/web-scraping-go/
+[python tutorials] [REACHABLE ✓ | 200] https://www.askpython.com/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=CMEWVn1uZpQ
+[python tutorials] [REACHABLE ✓ | 200] https://developers.google.com/edu/python/introduction
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/resources/docs/python
+[golang web scraping] [REACHABLE ✓ | 200] https://pixelscan.net/blog/how-to-scrap-data-from-web-with-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://www.tpointtech.com/python-tutorial
+[python tutorials] [FORBIDDEN | 403] https://www.datacamp.com/courses/intro-to-python-for-data-science
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3resource.com/python/python-tutorial.php
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/news/learning-python-from-zero-to-hero-120ea540b567/
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3.12/tutorial/index.html
+[python tutorials] [REACHABLE ✓ | 200] https://www.raspberrypi.org/courses/learn-python
+[golang web scraping] [REACHABLE ✓ | 200] https://webscraping.ai/faq/go/what-are-the-best-go-libraries-for-web-scraping
+[golang web scraping] [FORBIDDEN | 403] https://medium.com/@datajournal/how-to-use-gospider-for-web-crawling-43a48d40e488
+[golang web scraping] [RATE LIMITED | 429] https://blog.gkomninos.com/golang-web-scraping-using-scrapemate
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=Z1Yd7upQsXY
+[python tutorials] [REACHABLE ✓ | 200] https://learnpython.com/
+[python tutorials] [FORBIDDEN | 403] https://www.udemy.com/topic/python/
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/learn/python-crash-course
+[python tutorials] [REACHABLE ✓ | 200] https://www.learnpython.org/about
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialspoint.com/python/python_tutorial.pdf
+[python tutorials] [REACHABLE ✓ | 200] https://www.learnpython.org/en/Lists
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/courses?query=python
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=qwAFL1597eM
+[python tutorials] [NOT FOUND | 404] https://www.kaggle.com/learn
+[python tutorials] [REACHABLE ✓ | 200] https://pythonbasics.org/
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/getting-started/what-is-python/
+[python tutorials] [REACHABLE ✓ | 200] https://openpython.org/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/playlist?list=PLZJBfja3V3Rsbiz84Z63IXnTQZH_Rnfuo
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=sxTmJE4k0ho
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=xkZMUX_oQX4
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/default.asp?lang=en
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/web-scraping-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapingbee.com/blog/web-scraping-go/
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/index.html
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialspoint.com/python/index.htm
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapfly.io/blog/posts/web-scraping-with-go
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/gocolly/colly
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/python-basics/
+[golang web scraping] [REACHABLE ✓ | 200] https://roundproxies.com/blog/web-scraping-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/about/gettingstarted/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.zyte.com/learn/golang-web-scraping-in-2025-tools-techniques-and-best-practices/
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialsteacher.com/python
+[golang web scraping] [REACHABLE ✓ | 200] https://hasdata.com/blog/web-scraping-with-go
+[golang web scraping] [REACHABLE ✓ | 200] https://www.ipcook.com/blog/how-to-scrap-data-from-web-with-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://thelinuxcode.com/web-scraping-go/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.foxscrape.com/blog/web-scraping-with-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/courses/master-python-complete-beginner-to-advanced
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/tkinter/
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapfly.io/blog/posts/web-scraping-with-go
+[python tutorials] [REACHABLE ✓ | 200] https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/python-exercises-with-solutions/
+[python tutorials] [REACHABLE ✓ | 200] https://www.dataquest.io/blog/python-projects-for-beginners/
+[golang web scraping] [REACHABLE ✓ | 200] https://roundproxies.com/blog/web-scraping-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/machine-learning/machine-learning-with-python/
+[golang web scraping] [REACHABLE ✓ | 200] https://blog.apify.com/golang-web-scraping/
+[golang web scraping] [REACHABLE ✓ | 200] https://oxylabs.io/blog/golang-web-scraper
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/if-elif-else
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/operators
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/list
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/opencv-python-tutorial/
+[golang web scraping] [REACHABLE ✓ | 200] https://webscrapingsite.com/resources/golang-web-scraper/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.marketingscoop.com/tech/web-scraping/web-scraping-go/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.rickyspears.com/scraper/web-scraping-go/
+[python tutorials] [REACHABLE ✓ | 200] https://www.boot.dev/courses/learn-code-python
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/tech-engine/goscrapy
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scraperapi.com/web-scraping/golang/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.ipcook.com/blog/how-to-scrap-data-from-web-with-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://liveproxies.io/blog/go-web-scraping
+[golang web scraping] [REACHABLE ✓ | 200] https://infatica.io/blog/web-scraper-with-golang/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapingant.com/blog/web-scraping-go
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/web-scraping-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/index.html
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/gocolly/colly
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapingbee.com/blog/web-scraping-go/
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialspoint.com/python/index.htm
+[python tutorials] [REACHABLE ✓ | 200] https://www.learnpython.org/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapfly.io/blog/posts/web-scraping-with-go
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+[golang web scraping] [REACHABLE ✓ | 200] https://hasdata.com/blog/web-scraping-with-go
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/
+[golang web scraping] [REACHABLE ✓ | 200] https://roundproxies.com/blog/web-scraping-golang/
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/python-basics/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.zyte.com/learn/golang-web-scraping-in-2025-tools-techniques-and-best-practices/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.ipcook.com/blog/how-to-scrap-data-from-web-with-golang
+[python tutorials] [REACHABLE ✓ | 200] https://openpython.org/courses/learnpython
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/about/gettingstarted/
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/python/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.foxscrape.com/blog/web-scraping-with-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://hasdata.com/blog/web-scraping-with-go
+[python tutorials] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=alison.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=sTHJS1obFbtAI4fJTvfYQ_7M9xcs8YjDHbBufYFwUu9RK1pdgt2YzLoWKZM8IMX2wN660xmTZ1Gb2RFn6GOO7MSBG6PzuMaUxpAEJTznFSQKCgGYZo3IR%2DL4xf9kgMBGZu0X2ODntU24UwV5tA3AfQ.OJ5T7UIjk0vYYTRDv5uT7g&rut=7b16f5f24095818d66444a54a85bb01042cd0f5b2d6d6a2b580b18789ba94467&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8ZaSfnNyTdZP4gEMNe4YOxjVUCUxYRwWwsj7hriM9AnzwVsQjnVC59TUzwq8Bc9FplgUy5GZNUz8gEWWfeLUkc0y66r2ZD1a6rpkAiDh34pChVF8BM6LIsm6Ug%2DKbOFvF7966ZVfUMpqIQ7JKB5o1PrMLgRMmEjCarw0tiocmR_zIQk7RKMGql7hL0gGYixpMwQiOj3TkNHJQx6U8V8PAdrx4S6M%26u%3DaHR0cHMlM2ElMmYlMmZhbGlzb24uY29tJTJmY291cnNlJTJmaW50cm9kdWN0aW9uLXRvLXByb2dyYW1taW5nLXdpdGgtcHl0aG9uLXJldmlzZWQlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2Q0MzYzNDcyNDIlMjZ1dG1fY29udGVudCUzZDEzNTU3MDAzNDQxNzg2MTUlMjZ1dG1fdGVybSUzZGt3ZC04NDczMjQzNjE0Mjg3NiUzYWxvYy0zNiUyNm1zY2xraWQlM2Q2OWFkNDU2NzgxMGQxMTkwY2YzMDJjY2U5YmM4MGRkMQ%26rlid%3D69ad4567810d1190cf302cce9bc80dd1&vqd=4-128814619104719880344980984001577806809&iurl=%7B1%7DIG%3D241F07C89036478691300E1959DCDF77%26CID%3D2250256457E16C3519C8327756E46DED%26ID%3DDevEx%2C5041.1
+[golang web scraping] [REACHABLE ✓ | 200] https://awesome.ecosyste.ms/projects/github.com%2Fslotix%2Fdataflowkit
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/numpy/default.asp
+[golang web scraping] [BLOCKED (SSL error)] https://www.go-colly.org/
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/learn/scientific-computing-with-python/
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_getstarted.asp
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/if-elif-else
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/claudbytes/build-a-web-scraper-with-go-3jod
+[golang web scraping] [REACHABLE ✓ | 200] https://oxylabs.io/blog/golang-web-scraper
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/python-exercises-with-solutions/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrape.do/blog/web-scraping-in-golang/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapfly.io/blog/posts/web-scraping-with-go
+[python tutorials] [REACHABLE ✓ | 200] https://python.land/virtual-environments/virtualenv
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/tech-engine/goscrapy
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_ml_getting_started.asp
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_pip.asp
+[golang web scraping] [REACHABLE ✓ | 200] https://blog.apify.com/golang-web-scraping/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.rickyspears.com/scraper/web-scraping-go/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.marketingscoop.com/tech/web-scraping/web-scraping-go/
+[python tutorials] [REACHABLE ✓ | 200] https://support.microsoft.com/en-us/office/get-started-with-python-in-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_json.asp
+[golang web scraping] [UNKNOWN ERROR] https://roundproxies.com/blog/web-scraping-golang/
+[golang web scraping] [BLOCKED (DNS blocked)] https://www.scraperapi.com/web-scraping/golang/
+[golang web scraping] [BLOCKED (DNS blocked)] https://webscrapingsite.com/resources/golang-web-scraper/
+[golang web scraping] [BLOCKED (DNS blocked)] https://scrapingant.com/blog/web-scraping-go
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/siddheshk02/web-scraping-in-golang-4hcl
+[python tutorials] [BLOCKED (timeout)] https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/pandas/pandas_intro.asp
+[golang web scraping] [REACHABLE ✓ | 200] https://infatica.io/blog/web-scraper-with-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://code.visualstudio.com/docs/python/python-quick-start
+[golang web scraping] [REACHABLE ✓ | 200] https://liveproxies.io/blog/go-web-scraping
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/web-scraping-golang
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/index.html
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/oxylabs-io/building-a-web-scraper-in-golang-complete-tutorial-34if
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialspoint.com/python/index.htm
+[golang web scraping] [REACHABLE ✓ | 200] https://golangdocs.com/golang-web-page-scraping-goquery
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapfly.io/blog/posts/web-scraping-with-go
+[golang web scraping] [REACHABLE ✓ | 200] https://coderscratchpad.com/web-scraping-with-golang-techniques-and-tools/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/how-to-install-python-on-windows/
+[python tutorials] [REACHABLE ✓ | 200] https://www.learnpython.org/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/python-programming-language-tutorial/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapingbee.com/blog/web-scraping-go/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/gocolly/colly
+[golang web scraping] [OTHER | 406] https://codezup.com/golang-web-scraper-guide/
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/python-basics/
+[python tutorials] [REACHABLE ✓ | 200] https://www.sololearn.com/en/learn/courses/python-introduction
+[golang web scraping] [REACHABLE ✓ | 200] https://roundproxies.com/blog/web-scraping-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://learn.microsoft.com/en-us/azure/foundry-classic/agents/quickstart
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/default.asp
+[python tutorials] [REACHABLE ✓ | 200] https://openpython.org/courses/learnpython
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/about/gettingstarted/
+[golang web scraping] [REACHABLE ✓ | 200] https://hasdata.com/blog/web-scraping-with-go
+[golang web scraping] [REACHABLE ✓ | 200] https://rayobyte.com/blog/golang-web-scraper/
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/python/
+[python tutorials] [REACHABLE ✓ | 200] https://northpennnow.com/news/2026/feb/12/machine-learning-using-python-a-complete-learning-path-with-practical-projects/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.zyte.com/learn/golang-web-scraping-in-2025-tools-techniques-and-best-practices/
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/learn/learn-python-3
+[golang web scraping] [REACHABLE ✓ | 200] https://www.ipcook.com/blog/how-to-scrap-data-from-web-with-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://www.webscrapingapi.com/the-ultimate-guide-on-how-to-start-web-scraping-with-go
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/geziyor/geziyor
+[golang web scraping] [REACHABLE ✓ | 200] https://www.foxscrape.com/blog/web-scraping-with-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=eWRfhZUzrAc
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_intro.asp
+[golang web scraping] [REACHABLE ✓ | 200] https://rebrowser.net/blog/web-scraping-with-go-a-practical-guide-from-basics-to-production
+[golang web scraping] [REACHABLE ✓ | 200] https://www.ipcook.com/blog/how-to-scrap-data-from-web-with-golang
+[python tutorials] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=udemy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=x2J4gouxIx1%2DUynoSpFvsIIH1XxuYNXbQ0oC4HjuZmXAwKsotf9r3O21lZOExYADIfg85hG6NONtURJzLZL54LGrX9lP4s7arYK_f8Zt7K%2D6CfPZwGEUCoAg_4W4dKBC_1gozJivfYbat0Hs43emzg.drvbCSTgVFl83WSsuEpPbQ&rut=7c64d6f12bbfcd0d2149df7445a632f237b3fd499ec15d8d9b08d7600b91c195&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8nxBmoO_JWwMmazwkM4UrrzVUCUyPOz_KSnKfV5AQxNOOpMob5_U3Lp3_O%2DDppfNBkCPADomLvqCis4I5Rj6sq7woN89cfcyFcod8jloZ9rwuZuViKQqfu4%2DXcoyDDWCPHDBvi0fzZJNq2Ly1OZMEqtWiqSPpOjg7fxUTnDX4MaP9c8c_d8unUGXuRB4vtSZUrvXVH%2D_C4H_zSNVZTWghih4w9kM%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudWRlbXkuY29tJTJmY291cnNlJTJmMTAwLWRheXMtb2YtY29kZSUyZiUzZnV0bV9jYW1wYWlnbiUzZEJHLVNlYXJjaF9LZXl3b3JkX0FscGhhX1Byb2ZfbGEuRU5fY2MuUk9XLUVuZ2xpc2glMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RwYWlkLXNlYXJjaCUyNnBvcnRmb2xpbyUzZEJpbmctUk9XLUVuZ2xpc2glMjZ1dG1fYXVkaWVuY2UlM2RteCUyNnV0bV90YWN0aWMlM2RuYiUyNnV0bV90ZXJtJTNkYmVzdCUyNTIwcHl0aG9uJTI1MjBsZWFybmluZyUyNTIwdHV0b3JpYWxzJTI2dXRtX2NvbnRlbnQlM2RvJTI2ZnVubmVsJTNkJTI2dGVzdCUzZCUyNnV0bV9jYW1wYWlnbl9pZCUzZDYzODU5NjIyNyUyNm1zY2xraWQlM2Q4OGRkMzVkYzRjYjMxZmE2MzhmNTVjNzU1NjUyNDVkZg%26rlid%3D88dd35dc4cb31fa638f55c75565245df&vqd=4-148677055588687606695193430933215047800&iurl=%7B1%7DIG%3D9C4AEFC2D60442F5B4B3734330DC0DFF%26CID%3D15849260810867EC30228573806A662C%26ID%3DDevEx%2C5041.1
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/numpy/default.asp
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=rfscVS0vtbw
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapingdog.com/blog/web-scraping-with-go/
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/learn/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/learn/scientific-computing-with-python/
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_getstarted.asp
+[golang web scraping] [REACHABLE ✓ | 200] https://hasdata.com/blog/web-scraping-with-go
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/topics/web-scraping?l=go
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming/if-elif-else
+[python tutorials] [REACHABLE ✓ | 200] https://pynative.com/python-exercises-with-solutions/
+[golang web scraping] [REACHABLE ✓ | 200] https://awesome.ecosyste.ms/projects/github.com%2Fslotix%2Fdataflowkit
+[golang web scraping] [BLOCKED (SSL error)] https://www.go-colly.org/
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/claudbytes/build-a-web-scraper-with-go-3jod
+[golang web scraping] [REACHABLE ✓ | 200] https://oxylabs.io/blog/golang-web-scraper
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/catalog/language/python
+[golang web scraping] [REACHABLE ✓ | 200] https://scrape.do/blog/web-scraping-in-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://python.land/virtual-environments/virtualenv
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapfly.io/blog/posts/web-scraping-with-go
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/tech-engine/goscrapy
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/
+[golang web scraping] [REACHABLE ✓ | 200] https://blog.apify.com/golang-web-scraping/
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_ml_getting_started.asp
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=t8pPdKYpowI
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_pip.asp
+[python tutorials] [REACHABLE ✓ | 200] https://support.microsoft.com/en-us/office/get-started-with-python-in-excel-a33fbcbe-065b-41d3-82cf-23d05397f53d
+[golang web scraping] [REACHABLE ✓ | 200] https://www.rickyspears.com/scraper/web-scraping-go/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.marketingscoop.com/tech/web-scraping/web-scraping-go/
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_json.asp
+[golang web scraping] [REACHABLE ✓ | 200] https://roundproxies.com/blog/web-scraping-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://www.udacity.com/course/ai-programming-python-nanodegree--nd089
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/pandas/pandas_intro.asp
+[golang web scraping] [OTHER | 406] https://codezup.com/building-a-web-scraper-with-golang-and-net-http/
+[golang web scraping] [RATE LIMITED | 429] https://www.reddit.com/r/golang/comments/129n1g4/web_scraping_with_go/
+[python tutorials] [REACHABLE ✓ | 200] https://code.visualstudio.com/docs/python/python-quick-start
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapedev.com/blog/top-5-golang-libraries-for-web-scraping
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/learn/learn-python
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scraperapi.com/web-scraping/golang/
+[python tutorials] [REACHABLE ✓ | 200] https://learn.microsoft.com/en-us/windows/dev-environment/python
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapeless.com/en/wiki/web-scraping-with-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.learnpython.org/en/
+[python tutorials] [REACHABLE ✓ | 200] https://www.geeksforgeeks.org/python/how-to-install-python-on-windows/
+[golang web scraping] [REACHABLE ✓ | 200] https://marsproxies.com/blog/golang-web-scraper/
+[golang web scraping] [REACHABLE ✓ | 200] https://webscrapingsite.com/resources/golang-web-scraper/
+[python tutorials] [REACHABLE ✓ | 200] https://www.sololearn.com/en/learn/courses/python-introduction
+[golang web scraping] [REACHABLE ✓ | 200] https://www.foxscrape.com/blog/web-scraping-with-golang
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=b093aqAZiPU
+[python tutorials] [REACHABLE ✓ | 200] https://learn.microsoft.com/en-us/azure/foundry-classic/agents/quickstart
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/default.asp
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapingant.com/blog/web-scraping-go
+[python tutorials] [REACHABLE ✓ | 200] https://northpennnow.com/news/2026/feb/12/machine-learning-using-python-a-complete-learning-path-with-practical-projects/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/learning-paths/python-basics/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/start-here/
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/learn/learn-python-3
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/tutorials/all/
+[python tutorials] [REACHABLE ✓ | 200] https://www.programiz.com/python-programming
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3/tutorial/introduction.html
+[python tutorials] [REACHABLE ✓ | 200] https://learn.microsoft.com/en-us/visualstudio/python/tutorial-working-with-python-in-visual-studio-step-01-create-project?view=visualstudio
+[golang web scraping] [REACHABLE ✓ | 200] https://www.capsolver.com/blog/web-scraping/web-scraping-golang
+[golang web scraping] [FORBIDDEN | 403] https://medium.com/@dmitvas/using-go-for-web-scraping-7f70910b0ca8
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=eWRfhZUzrAc
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.com/python/python_intro.asp
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/golang-web-crawler
+[golang web scraping] [REACHABLE ✓ | 200] https://friendlyuser.github.io/posts/tech/go/web_scrapping_in_golang/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=rfscVS0vtbw
+[golang web scraping] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=udemy.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=mf5KEKJuP0tOGQAZaQkdn46Kwmazj2hgAUFW2p6MJFRwagts_oGyRu5mgvw8cHfD3XqWVVgplV9pdqMPpmMvT5ppHOzqJy5QDZVqvZUuA2HPBdP7wQ7BF_go04%2D2ay_Sjk_Gk0aIB2aOswC6kMW1Yw.ZI%2DB31cxPh%2DR6Y6CSnqVdA&rut=7342fa69f326566a93c6595e5613f1c8bef222a000040f7013abd4cbdd384dba&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8mEvNXZIyDmsGuHA2OFbt1TVUCUwm4b3z1JqYfa0Kyf51YtQh9XAfh25PVDW3GFfBWOxgErUcWjOv9HbU_Fb14bfbaESP6a2Tdnm%2DeqyhkzF9B6KIKzFz3uCQ0Jy1tBCPFBnMK8gOEKwJ_kNJ3nVn1fA30ZbvsO7B3FKLMW13iNewti_p33xw7zZknR8GmwgosZI_QkXSyr9UBLXq%2DaaGDZBde1w%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cudWRlbXkuY29tJTJmY291cnNlJTJmd2ViLXNjcmFwaW5nLXByb2plY3RzLWZvci1iZWdpbm5lcnMlMmYlM2Z1dG1fY2FtcGFpZ24lM2RCRy1TZWFyY2hfRFNBX0FscGhhX1Byb2ZfbGEuRU5fY2MuUk9XLUVuZ2xpc2glMjZ1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RwYWlkLXNlYXJjaCUyNnBvcnRmb2xpbyUzZEJpbmctUk9XLUVuZ2xpc2glMjZ1dG1fYXVkaWVuY2UlM2RteCUyNnV0bV90YWN0aWMlM2RuYiUyNnV0bV90ZXJtJTNkRGF0YSUyNTIwU2NpZW5jZSUyNnV0bV9jb250ZW50JTNkbyUyNmZ1bm5lbCUzZCUyNnRlc3QlM2QlMjZ1dG1fY2FtcGFpZ25faWQlM2Q2Mzg1OTYyMjglMjZtc2Nsa2lkJTNkY2MwNjJkODE5NGIwMTQyYzdkODg0NDI4OGU1ZGY3MTM%26rlid%3Dcc062d8194b0142c7d8844288e5df713&vqd=4-124484022639607800115840446976576244985&iurl=%7B1%7DIG%3DCFAB0667AFFB4C6596D20D3ED2EE3E65%26CID%3D29A1AC0B9C1F619E3B89BB189DE76007%26ID%3DDevEx%2C5041.1
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/siddheshk02/web-scraping-in-golang-4hcl
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/tutorials/basics/
+[golang web scraping] [REACHABLE ✓ | 200] https://infatica.io/blog/web-scraper-with-golang/
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/learn/python
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/tutorials/python/
+[python tutorials] [FORBIDDEN | 403] https://www.guru99.com/python-tutorials.html
+[python tutorials] [FORBIDDEN | 403] https://www.simplilearn.com/tutorials/python-tutorial
+[python tutorials] [REACHABLE ✓ | 200] https://www.python.org/doc/
+[python tutorials] [OTHER | 406] https://www.pythontutorial.net/
+[golang web scraping] [RATE LIMITED | 429] https://blog.cloudnativefolks.org/web-scraping-in-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://liveproxies.io/blog/go-web-scraping
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/oxylabs-io/building-a-web-scraper-in-golang-complete-tutorial-34if
+[golang web scraping] [OTHER | 406] https://codezup.com/getting-started-with-go-build-web-scraper-tutorial/
+[golang web scraping] [RATE LIMITED | 429] https://www.reddit.com/r/golang/comments/1f0x9e0/is_golang_a_good_language_for_web_scrapping_and/
+[golang web scraping] [REACHABLE ✓ | 200] https://golangdocs.com/golang-web-page-scraping-goquery
+[golang web scraping] [REACHABLE ✓ | 200] https://coderscratchpad.com/web-scraping-with-golang-techniques-and-tools/
+[python tutorials] [REACHABLE ✓ | 200] https://www.codecademy.com/catalog/language/python
+[golang web scraping] [REACHABLE ✓ | 200] https://jsschools.com/golang/how-to-build-a-high-performance-web-scraper-in-go/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=t8pPdKYpowI
+[python tutorials] [REACHABLE ✓ | 200] https://developers.google.com/edu/python/introduction
+[golang web scraping] [OTHER | 406] https://codezup.com/golang-web-scraper-guide/
+[golang web scraping] [REACHABLE ✓ | 200] https://rayobyte.com/blog/golang-web-scraper/
+[python tutorials] [REACHABLE ✓ | 200] https://www.digitalocean.com/community/tutorials/python-tutorial
+[golang web scraping] [REACHABLE ✓ | 200] https://www.webscrapingapi.com/the-ultimate-guide-on-how-to-start-web-scraping-with-go
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/geziyor/geziyor
+[golang web scraping] [REACHABLE ✓ | 200] https://rebrowser.net/blog/web-scraping-with-go-a-practical-guide-from-basics-to-production
+[python tutorials] [REACHABLE ✓ | 200] https://python.land/python-tutorial
+[golang web scraping] [REACHABLE ✓ | 200] https://www.ipcook.com/blog/how-to-scrap-data-from-web-with-golang
+[golang web scraping] [OTHER | 406] https://codezup.com/a-step-by-step-guide-to-creating-a-golang-web-scraper/
+[python tutorials] [REACHABLE ✓ | 200] https://www.codedex.io/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/news/learn-python-free-python-courses-for-beginners/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapingdog.com/blog/web-scraping-with-go/
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/cornelk/goscrape
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/topics/web-scraping?l=go
+[python tutorials] [REACHABLE ✓ | 200] https://www.learnpython.org/en/Welcome
+[golang web scraping] [OTHER | 406] https://codezup.com/go-web-scraper-guide/
+[golang web scraping] [FORBIDDEN | 403] https://medium.com/@diandranaufalabrors2/how-to-build-a-simple-web-scraper-using-go-golang-and-colly-987118acc5e0
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/gosom/scrapemate
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python-guide.org/intro/learning/
+[golang web scraping] [REACHABLE ✓ | 200] https://iproyal.com/blog/how-to-build-a-golang-web-scraper-the-ultimate-guide/
+[python tutorials] [REACHABLE ✓ | 200] https://www.khanacademy.org/computing/intro-to-python-fundamentals
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/learn/python-v9/
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapeless.com/zh/blog/golang-web-crawler
+[python tutorials] [FORBIDDEN | 403] https://pythongeeks.org/learn-python-tutorial/
+[golang web scraping] [OTHER | 406] https://codezup.com/building-a-web-scraper-with-golang-and-net-http/
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/lorien/awesome-web-scraping/blob/master/golang.md
+[golang web scraping] [RATE LIMITED | 429] https://www.reddit.com/r/golang/comments/129n1g4/web_scraping_with_go/
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapedev.com/blog/top-5-golang-libraries-for-web-scraping
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/scrapfly_dev/web-scraping-with-go-2d53
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialsteacher.com/python
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapeless.com/en/wiki/web-scraping-with-golang
+[python tutorials] [NOT FOUND | 404] https://www.kaggle.com/learn/python
+[python tutorials] [REACHABLE ✓ | 200] https://developers.google.com/edu/python/
+[golang web scraping] [REACHABLE ✓ | 200] https://marsproxies.com/blog/golang-web-scraper/
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=_uQrJ0TkZlc
+[golang web scraping] [REACHABLE ✓ | 200] https://www.foxscrape.com/blog/web-scraping-with-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://www.capsolver.com/blog/web-scraping/web-scraping-golang
+[golang web scraping] [FORBIDDEN | 403] https://medium.com/@dmitvas/using-go-for-web-scraping-7f70910b0ca8
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/golang-web-crawler
+[golang web scraping] [REACHABLE ✓ | 200] https://friendlyuser.github.io/posts/tech/go/web_scrapping_in_golang/
+[golang web scraping] [RATE LIMITED | 429] https://blog.cloudnativefolks.org/web-scraping-in-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://mrscraper.com/blog/web-scraping-with-golang
+[golang web scraping] [OTHER | 406] https://codezup.com/getting-started-with-go-build-web-scraper-tutorial/
+[golang web scraping] [RATE LIMITED | 429] https://www.reddit.com/r/golang/comments/1f0x9e0/is_golang_a_good_language_for_web_scrapping_and/
+[golang web scraping] [REACHABLE ✓ | 200] https://jsschools.com/golang/how-to-build-a-high-performance-web-scraper-in-go/
+[golang web scraping] [REACHABLE ✓ | 200] https://dev.to/vianeltxt/how-to-build-a-web-scraper-using-golang-with-colly-18lh
+[python tutorials] [REACHABLE ✓ | 200] https://learn.microsoft.com/en-us/shows/intro-to-python-development/
+[golang web scraping] [REACHABLE ✓ | 200] https://thunderbit.com/blog/get-started-web-scraping-go-easy-steps
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapeless.com/en/blog/golang-web-crawler
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=VchuKL44s6E
+[python tutorials] [REACHABLE ✓ | 200] https://www.tutorialspoint.com/python/python_overview.htm
+[golang web scraping] [OTHER | 204] https://schier.co/blog/a-simple-web-scraper-in-go
+[python tutorials] [REACHABLE ✓ | 200] https://pll.harvard.edu/course/machine-learning-and-ai-python
+[python tutorials] [REACHABLE ✓ | 200] https://learnxinyminutes.com/python/
+[python tutorials] [REACHABLE ✓ | 200] https://realpython.com/learning-paths/
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/courses?query=python
+[python tutorials] [REACHABLE ✓ | 200] https://www.coursera.org/learn/python-basics
+[python tutorials] [FORBIDDEN | 403] https://www.datacamp.com/blog/how-to-learn-python-expert-guide
+[python tutorials] [REACHABLE ✓ | 200] https://docs.python.org/3.11/tutorial/
+[python tutorials] [REACHABLE ✓ | 200] https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/
+[python tutorials] [REACHABLE ✓ | 200] https://wiki.python.org/moin/BeginnersGuide
+[python tutorials] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=Ro_MScTDfU4
+[python tutorials] [REACHABLE ✓ | 200] https://www.edx.org/learn/python
+[python tutorials] [REACHABLE ✓ | 200] https://www.w3schools.in/python
+[golang web scraping] [FORBIDDEN | 403] https://www.zenrows.com/blog/web-scraping-golang
+[sex] [REACHABLE ✓ | 200] https://www.psychologytoday.com/us/basics/sex
+[sex] [REACHABLE ✓ | 200] https://helloclue.com/articles/sex/a-beginners-guide-to-sex
+[golang web scraping] [REACHABLE ✓ | 200] https://scrapfly.io/blog/posts/web-scraping-with-go
+[sex] [REACHABLE ✓ | 200] https://www.youtube.com/watch?v=SkSItIS_Xl0
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapingbee.com/blog/web-scraping-go/
+[sex] [REACHABLE ✓ | 200] https://cafemom.com/lifestyle/sex-positions-all-married-couples-should-try
+[sex] [FORBIDDEN | 403] https://en.wikipedia.org/wiki/Sex
+[golang web scraping] [REACHABLE ✓ | 200] https://github.com/gocolly/colly
+[sex] [REACHABLE ✓ | 200] https://www.wikihow.com/Have-Safer-Sex
+[sex] [FORBIDDEN | 403] https://www.plannedparenthood.org/learn/sex-pleasure-and-sexual-dysfunction/sex-and-pleasure
+[golang web scraping] [REACHABLE ✓ | 200] https://roundproxies.com/blog/web-scraping-golang/
+[sex] [REACHABLE ✓ | 200] https://www.apa.org/topics/sex-sexuality
+[sex] [REACHABLE ✓ | 200] https://www.who.int/health-topics/sexual-health
+[golang web scraping] [REACHABLE ✓ | 200] https://hasdata.com/blog/web-scraping-with-go
+[golang web scraping] [REACHABLE ✓ | 200] https://www.zyte.com/learn/golang-web-scraping-in-2025-tools-techniques-and-best-practices/
+[sex] [REACHABLE ✓ | 200] https://www.webmd.com/sex-relationships/sex-and-health
+[golang web scraping] [REACHABLE ✓ | 200] https://www.ipcook.com/blog/how-to-scrap-data-from-web-with-golang
+[golang web scraping] [REACHABLE ✓ | 200] https://www.scrapeless.com/en/wiki/web-scraping-with-golang
+[sex] [OTHER | 406] https://sex.co.it/cam-girls
+[sex] [REACHABLE ✓ | 200] https://decider.com/2025/12/26/best-sex-scenes-2025-movies-streaming/
+[sex] [REACHABLE ✓ | 200] https://torrotube.com/tag/japanese-humiliated-schoolgirls-sex/page/4
+[sex] [REACHABLE ✓ | 200] https://slate.com/advice/2026/03/sex-advice-women-trend-social-media.html
+[sex] [RATE LIMITED | 429] https://www.aol.com/best-sex-positions-women-sure-211400873.html
+[sex] [RATE LIMITED | 429] https://www.aol.com/40-best-sex-scenes-watch-135800531.html
+[sex] [REACHABLE ✓ | 200] https://www.wcjb.com/2026/03/04/ex-mayor-found-guilty-having-sex-with-teen-house-party-while-serving-elected-official/
+[sex] [REACHABLE ✓ | 200] https://www.sportbible.com/other/why-sex-happens-at-olympics-athletes-567380-20250525
+[sex] [REACHABLE ✓ | 200] https://foxbaltimore.com/news/nation-world/high-schooler-faces-over-300-felony-charges-in-alleged-sextortion-catfishing-scheme-peters-township-pennsylvania-zachariah-abraham-meyers-senior-athlete-class-president-crime-explicit-phots-video-netherlands-adult-film-star
+[sex] [REACHABLE ✓ | 200] https://www.msn.com/en-us/news/crime/ex-mayor-misty-roberts-lewd-photo-revealed-in-sex-crimes-trial/ar-AA1Xe1vj
+[sex] [OTHER | 460] https://people.com/bridgerton-yerin-ha-developed-folliculitis-steamy-bathtub-scene-11915941
+[sex] [RATE LIMITED | 429] https://www.tristatehomepage.com/news/crime/muhlenberg-county-man-charged-with-sex-crimes-against-animals/
+[sex] [REACHABLE ✓ | 200] https://www.foxnews.com/us/high-school-teacher-arrested-alleged-sex-case-involving-student
+[sex] [BAD REQUEST | 400] https://duckduckgo.com/y.js?ad_domain=desire%2Dresort.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=NS%2D0LbGaBiHWc1NoKpSEAMdtBAtEq4RIVtMJYV4kZoghHBEuk0UGq_zQofunEgE3EjdYZAzpjw2KZqWZvgDJMPR_81_nkWivsD94ywpHNTumEGtRga4rRGY0poxM%2DVBrtfOdNB8RNqAv4SoF08s6aw.0H1c_FMmOhr82SCEtxypzA&rut=71800c7a9dced57f3b26c2d2b936743fb2258e13eaa6bad47ad6068812e19b20&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8nxxH2toK%2Dg5mHUFOUJOmCjVUCUxOnXCa3a4CEy5dhIZJuGIjjA__jGH8E6GqsUXnYkEr%2DRxXbyrKo98Ec7nHdST%2DKkVqS6ffQa1o_64zCIuC61Q%2DLvmA9x0FjsZVqu9nrohOUs7BQugYPGkVyrbh8GYRaPTSdOEoX4P4OR5QnfXZPVqPBX1E49YLDvDYPGZP7iYpwty8dy_ClCM_MKbRXot60ww%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZGVzaXJlLXJlc29ydC5jb20lMmYlM2Zzb3VyY2UlM2RicmNhbmN1biUyNmt3bSUzZCtkZXNpcmUrK3Jlc29ydCUyNnV0bV9jYW1wYWlnbiUzZERlc2lyZStDYW5jdW4rUkNUJTI2bWF0Y2h0eXBlJTNkJTI2dXRtX3NvdXJjZSUzZEJpbmctRGVzaXJlK0NhbmN1biUyNnV0bV9tZWRpdW0lM2RwcGMlMjZ1dG1fdGVybSUzZCtkZXNpcmUrK3Jlc29ydCUyNmt3JTNkJTI2dXRtX2NvbnRlbnQlM2QlMjZuZXR3b3JrJTNkTVNOJTI2bXNjbGtpZCUzZGZkN2I1N2YwMjkxNDFmZGE3ZGVmM2U1OTBhNTQ3MjMx%26rlid%3Dfd7b57f029141fda7def3e590a547231&vqd=4-227647776274005814617371088858077478376&iurl=%7B1%7DIG%3D9E45B511C1C64BE4808FB50D927ECAC2%26CID%3D3986C330D01F654C237AD423D1E764C0%26ID%3DDevEx%2C5042.1
+[sex] [FORBIDDEN | 403] https://www.marca.com/en/lifestyle/us-news/2025/01/23/67922c14e2704ecb1e8b458c.html
+[sex] [RATE LIMITED | 429] https://www.theadvocate.com/lake_charles/misty-roberts-deridder-sex-crime-trial-verdict-guilty/article_09cb5e70-2bf0-4ce8-9c4a-6bd5f56a9737.html
+[sex] [REACHABLE ✓ | 200] https://xemphimsex3xs.net/clip-sex-nguyen-minh-nhi-giao-vien-xam-tro-ngoai-tinh-voi-phu-huynh-hoc-sinh/
+[sex] [REACHABLE ✓ | 200] https://www.cbsnews.com/news/intimacy-ban-sex-olympic-village-paris-games-2024/
+[sex] [REACHABLE ✓ | 200] https://www.chop.edu/conditions-diseases/safer-sex-guidelines-adolescents
+[sex] [REACHABLE ✓ | 200] https://www.upi.com/Top_News/World-News/2026/03/03/epstein-files-resignations-consequences/1211772546528/
+[sex] [REACHABLE ✓ | 200] https://open.lib.umn.edu/evosex/chapter/8-7-variations-in-human-sex-differentiation/
+[sex] [REACHABLE ✓ | 200] https://nypost.com/2026/02/23/us-news/school-secretary-cries-while-quizzed-about-sex-with-student-her-hubby-found-her-in-bed-with-on-valentines-day/
+[sex] [REACHABLE ✓ | 200] https://www.msn.com/en-us/news/crime/ex-louisiana-mayor-misty-roberts-alleged-teen-sex-victim-was-disgusted-by-the-sick-romp-his-mom-testifies/ar-AA1XsP0q
+[sex] [REACHABLE ✓ | 200] https://lawenforcementtoday.com/new-york-troopers-caught-sex-on-duty-inconsistent-punishments
+[sex] [REACHABLE ✓ | 200] https://time.com/6118591/sex-lives-college-girls-review/
+[sex] [REACHABLE ✓ | 200] https://wgme.com/news/local/police-break-up-alleged-sex-trafficking-operation-in-sanford-maine-essential-8-spa-main-street
+[sex] [REACHABLE ✓ | 200] https://www.ky3.com/2026/02/28/son-says-interview-his-mother-former-mayor-had-sex-with-his-underage-friend/
+[sex] [REACHABLE ✓ | 200] https://www.local10.com/news/local/2026/03/03/florida-teacher-facing-serious-charges-following-sex-drug-allegations-involving-students/
+[sex] [REACHABLE ✓ | 200] https://www.nydailynews.com/2026/02/23/bonnie-blue-pregnant-unprotected-sex-men-record/
